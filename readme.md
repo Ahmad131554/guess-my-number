@@ -24,7 +24,7 @@ This is a simple web-based **Number Guessing Game** that allows players to guess
 
 ## Project Preview
 
-You can view a live demo of the project here: [Guess My Number Demo](https://your-live-demo-link.com)
+You can view a live demo of the project here: [Guess My Number Demo](https://randomguesser.netlify.app/)
 
 ---
 
